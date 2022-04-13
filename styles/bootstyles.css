@@ -1,0 +1,38 @@
+.background_2{
+    background-color: lightblue;
+}
+.links_2{
+    color: blue;
+    text-decoration: underline;
+    text-align: right;
+}
+
+.link3{
+    color: black;
+    text-decoration: underline;
+    text-align: right;
+}
+
+.header{
+    height: 100px;
+    background-image: url(../images/wood2.jpg);
+}
+
+.body{
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.footer{
+    background-color: turquoise;
+    height: 50px;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}

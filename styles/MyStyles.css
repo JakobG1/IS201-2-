@@ -1,0 +1,27 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.background{
+    background-color:lightblue ;
+}
+
+.links{
+    color: blue;
+    text-decoration: underline;
+}
+
+#tag{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+h2{
+    text-decoration: underline;
+}
